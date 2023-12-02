@@ -1,0 +1,14 @@
+C:\Users\tonig\Desktop\C#_lassons\lasson1\bin\Debug\net7.0\lasson1.exe
+C:\Users\tonig\Desktop\C#_lassons\lasson1\bin\Debug\net7.0\lasson1.deps.json
+C:\Users\tonig\Desktop\C#_lassons\lasson1\bin\Debug\net7.0\lasson1.runtimeconfig.json
+C:\Users\tonig\Desktop\C#_lassons\lasson1\bin\Debug\net7.0\lasson1.dll
+C:\Users\tonig\Desktop\C#_lassons\lasson1\bin\Debug\net7.0\lasson1.pdb
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.AssemblyInfoInputs.cache
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.AssemblyInfo.cs
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.csproj.CoreCompileInputs.cache
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.dll
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\refint\lasson1.dll
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.pdb
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\lasson1.genruntimeconfig.cache
+C:\Users\tonig\Desktop\C#_lassons\lasson1\obj\Debug\net7.0\ref\lasson1.dll
